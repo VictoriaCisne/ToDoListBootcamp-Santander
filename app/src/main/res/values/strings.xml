@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="app_title">Tarefas</string>
+    <string name="new_task">Nova Tarefa</string>
+    <string name="create_task">Criar Tarefa</string>
+    <string name="update_task">Atualizar Tarefa</string>
+    <string name="title_hint">Título</string>
+    <string name="description_hint">Descrição</string>
+    <string name="date_hint">Data</string>
+    <string name="time_hint">Hora</string>
+    <string name="cancel_button_text">Cancelar</string>
+    <string name="empty_state_text">Pode relaxar...\nNão há tarefas a serem feitas!</string>
+    <string name="edit_popup_option_text">Editar</string>
+    <string name="delete_popup_option_text">Deletar</string>
+</resources>
